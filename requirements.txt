@@ -1,0 +1,6 @@
+streamlit
+snscrape
+textblob
+pandas
+matplotlib
+wordcloud
